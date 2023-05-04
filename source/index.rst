@@ -9,7 +9,12 @@ Welcome to Stanford Domains Tutorial's documentation!
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
-
+   
+   whatisstanforddomains/whatisstanforddomains
+   gettingstarted/gettingstarted
+   creatingawordpresswebsite/creatingawordpresswebsite
+   creatingastaticwebsite/creatingastaticwebsite
+   technicalsupport/technicalsupport
 
 
 Indices and tables

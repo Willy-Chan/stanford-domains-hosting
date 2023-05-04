@@ -1,20 +1,4 @@
-.. _h.34rxutid938e:
-
-Heading 1
-=========
-
-.. _h.n80rcxntkdzx:
-
-Heading 2
----------
-
-Content
-
--  
-
-.. _h.z0bjguunlcjp:
-
-Whatis Stanford Domains?
+What is Stanford Domains?
 ========================
 
 .. _h.8qwc59ypozpt:
